@@ -35,7 +35,7 @@ Total	        2536	100	300
 
 Installation
 Clone the repository:
-git clone https://github.com/bakhita11/autism-detection-fusion.git
+git clone [https://github.com/bakhita11/autism-detection-fusion.git](https://github.com/bakhita11/Autistic-Fusion-A-Hybrid-CNN--Transformer-Framework-for-Facial-Expression-Recognition/tree/main)
 cd autism-detection-fusion
 Install dependencies:
 pip install -r requirements.txt
