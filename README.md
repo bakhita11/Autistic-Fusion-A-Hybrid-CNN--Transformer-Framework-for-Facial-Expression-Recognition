@@ -1,4 +1,4 @@
-# Autistic-Fusion-A-Hybrid-CNN--Transformer-Framework-for-Facial-Expression-Recognition
+# Autistic Fusion: A Hybrid CNN–Transformer Framework for Facial Expression Recognition in Autistic and Non-Autistic Individuals
 
 README.md
 
