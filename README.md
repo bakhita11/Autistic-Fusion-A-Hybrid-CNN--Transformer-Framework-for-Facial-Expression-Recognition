@@ -15,6 +15,11 @@ Attention-Based Fusion: Learns optimal weighting between feature sequences.
 High Accuracy: Improved performance over baseline models.  
 Explainability: Supports visualizations such as feature maps and attention heatmaps.  
 Modular Design: Easy to replace or add additional feature extractors.
+
+FERAC Dataset Direct Link:
+
+https://www.kaggle.com/datasets/rajasreechaiti/ferac-dataset
+
 Dataset Structure
 The dataset is organized into the following directories:
 
@@ -35,7 +40,7 @@ Total	        2536	100	300
 
 Installation
 Clone the repository:
-git clone [https://github.com/bakhita11/autism-detection-fusion.git](https://github.com/bakhita11/Autistic-Fusion-A-Hybrid-CNN--Transformer-Framework-for-Facial-Expression-Recognition/tree/main)
+git clone https://github.com/bakhita11/Autistic-Fusion-A-Hybrid-CNN--Transformer-Framework-for-Facial-Expression-Recognition/tree/main
 cd autism-detection-fusion
 Install dependencies:
 pip install -r requirements.txt
